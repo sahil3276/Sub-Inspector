@@ -2,4 +2,4 @@
 Python Driven Automated Subdomain Enumeration Tool with Discord Notification
 
 
-Releasing on: 31/07/2024
+[Refer My Walkthrough to Configure Amass.!](https://sahil3276.medium.com/)
